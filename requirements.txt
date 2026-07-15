@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+gunicorn
+groq
+pinecone
+sentence-transformers
+requests
